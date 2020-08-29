@@ -1342,7 +1342,7 @@ rune_of_power="RUNE of POWER"
 rune_text="Сила POWER может быть применена к следующим типам предметов:#"
 scroll_codex_use="Использование: Заклинание SPELL"
 codex_cooldown="SEC секунд восстановления"
-value="Значение "
+value="Цена продажи "
 crystals="Кристаллы"
 class_item="Предмет CLASS"
 [CONTAINERS]
