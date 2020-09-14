@@ -135,7 +135,7 @@ stat_sect_defense="*Защита*"
 stat_sect_offense="*Урон*"
 stat_sect_healing="*Исцеление*"
 stat_sect_coh="*Шанс При Нанесении Урона*"
-stat_sect_ele_res="*Сопротивление стихиям*"
+stat_sect_ele_res="*Сопротивление к стихиям*"
 stat_sect_ele_dam="*Бонусы к Урону от Стихий*"
 stats="Статистика"
 [STAT MISC]
