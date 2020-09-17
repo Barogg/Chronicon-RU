@@ -928,4 +928,7 @@ elite_affix_name_95="Угольщик"
 elite_affix_name_96="Колдун"
 elite_affix_name_97="Рунный Лорд"
 [MISC]
+enemy_tag_hidden="Скрытые Силы"
+companion_tag_2="Нежелательный приспешник NAME"
+companion_tag_1="Приспешник NAME"
 secret_pet_goblin_name="Голсмег"
