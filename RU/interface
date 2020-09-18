@@ -50,7 +50,7 @@ notice_area_loot="Добывайте до того, как закончится 
 notice_area_wave_boss="- Приготовьтесь! -#BOSS WAVE!"
 notice_area_wave="- Приготовьтесь! -#Wave X"
 notice_area_wave_intro="- Приготовьтесь! -"
-notice_wp_active="Активирована Путевая точа в AREA"
+notice_wp_active="Активирована Точка перемещения в AREA"
 [CODEX]
 codex_main_title="Кодекс"
 codex_item_title="Предметы"
