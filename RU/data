@@ -2,5 +2,5 @@
 name="Russian"
 font_align="left"
 font_type="cyrillic"
-no_suffix_of_separator="1"
+no_suffix_of_separator="0"
 only_suffixes="1"
