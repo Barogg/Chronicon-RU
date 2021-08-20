@@ -312,7 +312,7 @@ popup_notice_title="Уведомление"
 [WARNINGS]
 warning_framerate="ВНИМАНИЕ: Низкая производительность!"
 warning_item_fav="Предмет отмечен как избранный!"
-warning_tarot_card="Карт Таро не осталось!"
+warning_tarot_card="Карт Тарот не осталось!"
 warning_not_enough_mastery="Уровень мастерства слишком низкий! Только обычные умения могут быть загружены."
 warning_low_level="NAME слишком низкий уровень!"
 warning_wrong_class="NAME не может носить это!"
