@@ -292,6 +292,7 @@ speech_zombie_3="Моооззгиии..."
 speech_zombie_4="Граааа...!"
 speech_zombie_5="Раааа...!"
 speech_zombie_6="Ааааххх..."
+speech_exp_beast_intro="Зверя нельзя будить!"
 [MISC]
 speech_pet_goblin_1="Эй, вонючий."
 speech_pet_goblin_2="Вы встречали моего кузена?"
