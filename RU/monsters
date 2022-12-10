@@ -1,4 +1,9 @@
 [MISC]
+companion_killbot="Килл-бот"
+companion_paladin="P4L4D-N"
+companion_medic="M3D1C"
+companion_bomb_bot="Бомба-бот"
+companion_sentry="S3N7RY"
 companion_wisp_1="Огонёк"
 companion_wisp_2="Мегаогонёк"
 companion_wolf_1="Альфа-волк"
