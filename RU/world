@@ -108,6 +108,8 @@ stash_personal_txt="Храните предметы здесь!"
 stash_shared_nm="Общий тайник"
 stash_shared_txt="Храните предметы здесь!"
 caravan_act4="Разорённый Караван"
+portal_title_repeat="Повторить уровень"
+portal_title_advance="Повысить уровень"
 [WAYPOINTS]
 text_waypoints="Точки перемещения"
 text_waypoint="Точка перемещения"

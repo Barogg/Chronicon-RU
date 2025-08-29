@@ -263,6 +263,8 @@ gamepad_toggle_inspect="Переключить проверку инвентар
 keybinds_reset="Сбросить профиль"
 keybinds_create="Создать новый профиль"
 keybinds_current="Текущий профиль:"
+key_beast="Инвентарь зверя"
+key_stats="Страница хар-к"
 [GAMEPLAY OPTIONS]
 gameplay_title="Настройки игрового процесса"
 sticky_targets="Привязка к цели (только мышь)"
