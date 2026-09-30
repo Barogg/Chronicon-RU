@@ -1,4 +1,5 @@
 [STAT NAMES]
+stat_minor="Малый модификатор характеристик"
 stat_ground_effect="Сопротивление к Наземному Урону"
 stat_barrier_str="Эффект поглощения барьеров"
 stat_indirect_effect="Сопротивление к Непрямому Урону"
